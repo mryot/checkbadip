@@ -1,0 +1,2 @@
+# checkbadip
+Abuseipdb,Virustotal
